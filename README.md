@@ -75,7 +75,7 @@ pkg install git -y
 pkg install python -y 
 git clone https://github.com/hackelite01/MBomb.git
 cd MBomb
-./MBomb.sh
+bash MBomb.sh
 ```
 
 #### For iSH
